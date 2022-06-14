@@ -1,6 +1,6 @@
 # YARIX- Learning Diary
 
-###　What are YARA rules?
+### What are YARA rules?
 
 YARA rules are used to classify and identify malware samples by creating descriptions of malware families based on textual or binary patterns.
 
