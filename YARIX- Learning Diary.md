@@ -56,7 +56,7 @@ mkdir idx1
 https://resources.infosecinstitute.com/topic/top-7-malware-sample-databases-and-datasets-for-research-and-training/
 ### Get the malware sample from VirusShare 
 
-![In(3)]](https://github.com/LilyWu0719/YARA-rules/blob/master/scr/In(3).png)
+![In(3)](https://github.com/LilyWu0719/YARA-rules/blob/master/scr/In(3).png)
 
 ![In(2)](https://github.com/LilyWu0719/YARA-rules/blob/master/scr/In(2).png)
 
