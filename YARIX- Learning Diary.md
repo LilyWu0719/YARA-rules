@@ -24,7 +24,7 @@ https://github.com/Yara-Rules/rules
 
 ### Download Ubuntu
 
-![Ubuntu](C:\Users\Tommy\Downloads\Ubuntu.png)
+![Ubuntu]([C:\Users\Tommy\Downloads\Ubuntu.png](https://github.com/LilyWu0719/YARA-rules/blob/master/scr/Ubuntu.png))
 
 ###　Preparation
 
@@ -37,7 +37,7 @@ make -C src/
 pip install -r requirements.txt
 ```
 
-![In(1)](C:\Users\Tommy\Downloads\In(1).png)
+![In(1)]([C:\Users\Tommy\Downloads\In(1).png](https://github.com/LilyWu0719/YARA-rules/blob/master/scr/In(1).png))
 
 ### Create an Index
 
@@ -56,9 +56,9 @@ mkdir idx1
 https://resources.infosecinstitute.com/topic/top-7-malware-sample-databases-and-datasets-for-research-and-training/
 ### Get the malware sample from VirusShare 
 
-![In(3)](C:\Users\Tommy\Downloads\In(3).png)
+![In(3)]([C:\Users\Tommy\Downloads\In(3).png](https://github.com/LilyWu0719/YARA-rules/blob/master/scr/In(3).png))
 
-![In(2)](C:\Users\Tommy\Downloads\In(2).png)
+![In(2)]([C:\Users\Tommy\Downloads\In(2).png](https://github.com/LilyWu0719/YARA-rules/blob/master/scr/In(2).png))
 
 ## Reference
 
